@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduBoost AI",
+  "description": "An all-in-one AI-powered learning companion that generates flashcards, quizzes, summaries, and personalized study plans using the Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
